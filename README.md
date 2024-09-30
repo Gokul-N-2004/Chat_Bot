@@ -26,6 +26,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-### Preview of the Project 
+### `Preview of the Project`
 
 ![Screenshot 2024-09-30 093311](https://github.com/user-attachments/assets/66e8577a-35ab-42fb-843a-b80b9317b355)
