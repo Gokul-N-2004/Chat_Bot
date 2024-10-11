@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## `Open the Project`  
-   [http://localhost:3000](http://localhost:3000) to view it in your browser. 
+   [http://chat-bot-zeta-seven.vercel.app](https://chat-bot-zeta-seven.vercel.app/)) to view it in your browser. 
 
 ## Available Scripts
 
